@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Testing!</title>
+        <link rel="icon" href="media/CatJamMeme.jpg">
+        <link rel="stylesheet" href="main-DESKTOP-TTA9PGR.css">
+    </head>
+    <body>
+        <h1>Wass Gud Fam</h1>
+        <img id="hanginAround" src="https://i.ytimg.com/vi/fzjdk-RBzw0/maxresdefault.jpg" alt="Just hangin around meme">
+        <hr>
+        <a id="anchor" href="https://ih1.redbubble.net/image.3185474563.7402/st,small,507x507-pad,600x600,f8f8f8.jpg">Click here for robux!!!</a>
+        <hr>
+        <h3>SIUUUUUUU</h3>
+        <h2>Click Here ↓</h2>
+        <a id="Siuu" href="media/ronaldo-siuuuu.mp3"><img src="https://media.tenor.com/5tMQDJlcOcYAAAAC/siuuu.gif" width="500px"></a>
+        <hr>
+        <section>
+            <h2>GAMERS</h2>
+            <ul id="Xqc" class="li__purple">
+                <li>Xqc is</li>
+                <ol>
+                    <li>Gaming Warlord</li>
+                    <li>Pepega</li>
+                    <li>Juser</li>
+                </ol>
+            </ul>
+            <ul id="Jesse" class="li__green">
+                <li>Jesse is</li>
+                <ol>
+                    <li>Handsome</li>
+                    <li>WidePeepoHappy</li>
+                    <li>Cool</li>
+                </ol>
+            </ul>
+            <ul id="Poke" class="li__red">
+                <li>Poke is</li>
+                    <ol>
+                        <li>Dark haired</li>
+                        <li>Pro</li>
+                        <li>Rizzer</li>
+                    </ol>
+            </ul>
+            <h2>Amoung Us</h2>
+            <table>
+                <colgroup>
+                    <col bgcolor="white">
+                    <col bgcolor="white">
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th colspan="2" >Among us sus scale</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Color</th>
+                        <th>Sus scale</th>
+                    </tr>
+                    <tr>
+                        <th bgcolor="brown">Brown</th>
+                        <th>7/10</th>
+                    </tr>
+                    <tr>
+                        <th bgcolor="blue">Blue</th>
+                        <th>5/10</th>
+                    </tr>
+                    <tr>
+                        <th bgcolor="green">Green</th>
+                        <th>4/10</th>
+                    </tr>
+                    <tr>
+                        <th bgcolor="orange">Orange</th>
+                        <th>6/10</th>
+                    </tr>
+                    <tr>
+                        <th bgcolor="purple">Purple</th>
+                        <th>8/10</th>
+                    </tr>
+                    <tr>
+                        <th bgcolor="red">Red</th>
+                        <th>10/10</th>
+                    </tr>
+                    <tr>
+                        <th bgcolor="yellow">Yellow</th>
+                        <th>5/10</th>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th colspan="2">At 3 a.m</th>
+                    </tr>
+                </tfoot>
+            </table>
+        </section>
+    </body>
+</html>
